@@ -9,18 +9,18 @@ class Server:
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Is my internet working?</title>
     <meta charset="utf-8">
+    <title>Is my internet working?</title>
     <style type="text/css">
-    #text {
-        position: absolute;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, -50%);
-        font-family: "Georgia", sans-serif;
-        font-size: 96pt;
-        text-align: center;
-    }
+        #text {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            font-family: "Georgia", sans-serif;
+            font-size: 96pt;
+            text-align: center;
+        }
     </style>
 </head>
 <body>

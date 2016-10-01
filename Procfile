@@ -1,1 +1,1 @@
-web: python ismyinternetworking.py
+web: python main.py
